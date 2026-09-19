@@ -1,0 +1,6 @@
+# 需要 Python >= 3.10（Streamlit Cloud 应用设置里选 3.12；本机用 uv 安装的独立 CPython 3.12）
+langgraph>=1.2,<2
+langchain-core>=1.6,<2
+langchain-openai>=1.6,<2
+streamlit>=1.40
+
